@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Features that has been used in this clone ( React Hooks, React Router, Flexbox, )
+Packages that has been installed in this clone ( @material-ui/core, @material-ui/icons, date-fns, react-date-range, react-router-dom,  )
